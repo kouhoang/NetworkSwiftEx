@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.10.2)
+  - CombineCocoa (0.4.1)
+  - Kingfisher (8.3.1)
+  - SnapKit (5.7.1)
+  - SwiftyJSON (5.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - CombineCocoa
+  - Kingfisher
+  - SnapKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CombineCocoa
+    - Kingfisher
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  CombineCocoa: e5210dbfb480ff251078929459ac17e750e7af1d
+  Kingfisher: 3204d23de16b5ea53541c44ca5a8efb55741dec3
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  SwiftyJSON: f5b1bf1cd8dd53cd25887ac0eabcfd92301c6a5a
+
+PODFILE CHECKSUM: a8f93e368cb9b089d66c0dde881ff00789e60abe
+
+COCOAPODS: 1.16.2
